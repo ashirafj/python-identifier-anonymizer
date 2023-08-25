@@ -4,4 +4,5 @@ setup(
     name="identifier-anonymizer",
     version="1.0.0",
     packages=find_packages(),
+    install_requires=["astor"],
 )
